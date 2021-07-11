@@ -116,8 +116,8 @@ require_once 'config.php';
          margin:20px auto;
          outline:none;
          width:70%;
-         padding: 0 20px;
          border:1px solid #ccc;
+         padding: 0 20px;
          border-radius:5px;
        
      }
