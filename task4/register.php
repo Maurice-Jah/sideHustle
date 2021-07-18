@@ -96,7 +96,7 @@ if($firstnameErr == "" && $lastnameErr =="" && $emailErr == "" && $passwordErr==
   }else{
     echo "<script> alert('Unable to create account') </script>";
   }
-  header("Refresh:1; url= login.php");
+  header("Refresh:1; url= index.php");
   exit();
 } 
 
@@ -176,7 +176,7 @@ function test_input($data){
 
     <input type="submit" value="Register" name="submit">
     
-    <p> Have an account? <span class="link"> <a href="login.php">Login Here.</a> </span> </p>
+    <p> Have an account? <span class="link"> <a href="index.php">Login Here.</a> </span> </p>
     </form>
   
   

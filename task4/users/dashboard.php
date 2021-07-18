@@ -40,7 +40,7 @@ $table = 'post';
   <div class="sidebar">
     <p class="add__product"><span><a href="../users/add_product.php" class='add'><i class='fa fa-plus'> </i>  Add Product </a></span> </p>
     <p class="view__products"><span><a href="" class='view'><i class='fa fa-th'></i> All Products </a></span> </p>
-    <p class="logout"><span><a href="../login.php" class='view'><i class='fa fa-sign-out'></i> Logout </a></span> </p>
+    <p class="logout"><span><a href="../index.php" class='view'><i class='fa fa-sign-out'></i> Logout </a></span> </p>
   </div>
 
   <!-- Products section -->
